@@ -210,24 +210,6 @@ My long-term interests include:
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/shahmdsiddik1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahmdsiddik1&theme=tokyo-night&hide_border=true&area=true" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/shahmdsiddik1/shahmdsiddik1/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
